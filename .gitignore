@@ -1,3 +1,5 @@
 datasets/
 helper_functions.py
 __pycache__/
+.venv/
+flagged/
